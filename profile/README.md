@@ -1,24 +1,47 @@
-# 👋 嘿，这里是 N0tsLabs 
+# 👋 N0tsLabs
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-一直在折腾-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mode-深夜敲代码模式-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/N0tsLabs/TaskStation?style=flat-square&label=Latest%20Stars" />
+  <img src="https://img.shields.io/badge/status-still%20coding-ff69b4?style=flat-square" />
+  <img src="https://img.shields.io/badge/stack-everything%20that%20works-9cf?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/N0tsLabs/TaskStation?style=flat-square&label=Stars" />
 </p>
 
 ---
 
-### 🧪 所谓“实验室”...
-其实就是我个人的**灵感垃圾桶**和**轮子加工厂**。
-不喜欢重复劳动，所以写了一堆工具来帮我偷懒。这里没什么伟大的使命，只有一堆我觉得“有点意思”或者“能帮我省事”的代码。
+### 关于
 
-> “代码没写完，先点个外卖。” —— 某位不愿透露姓名的开发者
+一个普通开发者的开源仓库合集。
 
-### ☕ 找我聊天
-如果你发现我的轮子爆胎了（Bug），或者想跟我一起折腾点新奇的：
-- **QQ群** [坚果小栈](https://jq.qq.com/?_wv=1027&k=qMNJqj3F) 欢迎加群交流。
+做着做着项目就多了，干脆放在一个组织里。代码风格比较随缘，但功能基本靠谱。
 
 ---
-<p align="center">
-  <i>即使前方的路看似绝境，也要有硬生生为自己开辟出一条道路的勇气。</i>
-</p>
+
+### 你可能会好奇的项目
+
+| 项目 | 一句话 |
+|------|--------|
+| [MCPLink](https://github.com/N0tsLabs/MCPLink) | AI Agent 方案，接入了 MCP 协议 |
+| [TaskStation](https://github.com/N0tsLabs/TaskStation) | 用来看任务进度的轻量工具 |
+| [NutCode](https://github.com/N0tsLabs/NutCode) | 终端里的 AI 编码助手，🥜 打头阵 |
+| [AI-Computer](https://github.com/N0tsLabs/ai-computer) | 让 AI 直接操作电脑，并展示过程 |
+| [SimpleSheet](https://github.com/N0tsLabs/SimpleSheet) | Excel 那种表格，但纯前端零依赖 |
+| [GhostCoder](https://github.com/N0tsLabs/GhostCoder) | 它在你看不见的地方修 Bug（名字帅就够了） |
+| [code-shit-audit](https://github.com/N0tsLabs/code-shit-audit) | 多 Agent 审计你的代码，然后生成一份很漂亮的报告 |
+| [NutTTY](https://github.com/N0tsLabs/NutTTY) | Windows 终端增强，敲命令舒服点 |
+| [wechat-devtools-cli](https://github.com/N0tsLabs/wechat-devtools-cli) | 命令行遥控微信开发者工具，AI 友好 |
+| [webi18n](https://github.com/N0tsLabs/webi18n) | 浏览器插件，AI 帮你翻译网页 |
+
+还有几个藏在仓库列表里，懒得全列了。
+
+---
+
+### 技术栈
+
+写得多但用得不深：\`TypeScript\` · \`Python\` · \`Go\` · \`Bun\` · \`SolidJS\` · \`Vue\` · \`React\` · \`MCP\`
+
+---
+
+### 联系
+
+- **QQ 群** [坚果小栈](https://jq.qq.com/?_wv=1027&k=qMNJqj3F) — 有问题或者随便聊聊都行
+
