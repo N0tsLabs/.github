@@ -1,4 +1,4 @@
-# 👋 N0tsLabs
+# 👋 N0tsLabs | 坚果的小小仓库
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-still%20coding-ff69b4?style=flat-square" />
@@ -10,9 +10,9 @@
 
 ### 关于
 
-一个普通开发者的开源仓库合集。
+一个牛马的开源仓库合集。
 
-做着做着项目就多了，干脆放在一个组织里。代码风格比较随缘，但功能基本靠谱。
+做着做着项目就多了，干脆放在一个组织里。
 
 ---
 
@@ -27,12 +27,6 @@
 | [wechat-devtools-cli](https://github.com/N0tsLabs/wechat-devtools-cli) | 命令行遥控微信开发者工具，AI 友好 |
 
 其他项目还在开发完善中 🛠️
-
----
-
-### 技术栈
-
-写得多但用得不深：\`TypeScript\` · \`Python\` · \`Go\` · \`Bun\` · \`SolidJS\` · \`Vue\` · \`React\` · \`MCP\`
 
 ---
 
