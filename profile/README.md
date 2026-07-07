@@ -25,9 +25,7 @@
 | [NutCode](https://github.com/N0tsLabs/NutCode) | 终端里的 AI 编码助手，🥜 打头阵 |
 | [AI-Computer](https://github.com/N0tsLabs/ai-computer) | 让 AI 直接操作电脑，并展示过程 |
 | [SimpleSheet](https://github.com/N0tsLabs/SimpleSheet) | Excel 那种表格，但纯前端零依赖 |
-| [GhostCoder](https://github.com/N0tsLabs/GhostCoder) | 它在你看不见的地方修 Bug（名字帅就够了） |
 | [code-shit-audit](https://github.com/N0tsLabs/code-shit-audit) | 多 Agent 审计你的代码，然后生成一份很漂亮的报告 |
-| [NutTTY](https://github.com/N0tsLabs/NutTTY) | Windows 终端增强，敲命令舒服点 |
 | [wechat-devtools-cli](https://github.com/N0tsLabs/wechat-devtools-cli) | 命令行遥控微信开发者工具，AI 友好 |
 | [webi18n](https://github.com/N0tsLabs/webi18n) | 浏览器插件，AI 帮你翻译网页 |
 
