@@ -16,20 +16,17 @@
 
 ---
 
-### 你可能会好奇的项目
+### 精选项目
 
 | 项目 | 一句话 |
 |------|--------|
-| [MCPLink](https://github.com/N0tsLabs/MCPLink) | AI Agent 方案，接入了 MCP 协议 |
-| [TaskStation](https://github.com/N0tsLabs/TaskStation) | 用来看任务进度的轻量工具 |
-| [NutCode](https://github.com/N0tsLabs/NutCode) | 终端里的 AI 编码助手，🥜 打头阵 |
-| [AI-Computer](https://github.com/N0tsLabs/ai-computer) | 让 AI 直接操作电脑，并展示过程 |
 | [SimpleSheet](https://github.com/N0tsLabs/SimpleSheet) | Excel 那种表格，但纯前端零依赖 |
-| [code-shit-audit](https://github.com/N0tsLabs/code-shit-audit) | 多 Agent 审计你的代码，然后生成一份很漂亮的报告 |
+| [AI-Switch](https://github.com/N0tsLabs/AI-Switch) | Agent 工具配置切换、保存、云同步 |
+| [code-shit-audit](https://github.com/N0tsLabs/code-shit-audit) | 多 Agent 审计你的代码，生成一份很漂亮的报告 |
+| [ai-computer](https://github.com/N0tsLabs/ai-computer) | 让 AI 直接操作电脑，并展示过程 |
 | [wechat-devtools-cli](https://github.com/N0tsLabs/wechat-devtools-cli) | 命令行遥控微信开发者工具，AI 友好 |
-| [webi18n](https://github.com/N0tsLabs/webi18n) | 浏览器插件，AI 帮你翻译网页 |
 
-还有几个藏在仓库列表里，懒得全列了。
+其他项目还在开发完善中 🛠️
 
 ---
 
