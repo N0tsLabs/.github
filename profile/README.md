@@ -24,7 +24,6 @@
 | [AI-Switch](https://github.com/N0tsLabs/AI-Switch) | Agent 工具配置切换、保存、云同步 |
 | [code-shit-audit](https://github.com/N0tsLabs/code-shit-audit) | 多 Agent 审计你的代码，生成一份很漂亮的报告 |
 | [ai-computer](https://github.com/N0tsLabs/ai-computer) | 让 AI 直接操作电脑，并展示过程 |
-| [wechat-devtools-cli](https://github.com/N0tsLabs/wechat-devtools-cli) | 命令行遥控微信开发者工具，AI 友好 |
 
 其他项目还在开发完善中 🛠️
 
